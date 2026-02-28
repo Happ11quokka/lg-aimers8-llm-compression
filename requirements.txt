@@ -1,0 +1,31 @@
+# ============================================================================
+# LG Aimers 8기 - 모델 경량화 해커톤
+# 로컬 실행을 위한 패키지 목록
+# ============================================================================
+#
+# 설치 방법:
+#   pip install -r requirements.txt
+#
+# ============================================================================
+
+# 평가 서버 환경과 동일한 버전
+transformers==4.57.3
+tokenizers==0.22.1
+accelerate==1.10.1
+datasets==4.4.1
+huggingface-hub==0.36.0
+safetensors==0.7.0
+sentencepiece==0.2.1
+compressed-tensors==0.13.0
+
+# 양자화 도구
+llmcompressor
+loguru
+pydantic
+
+# Jupyter 노트북 실행용
+jupyter
+ipykernel
+
+# 진행률 표시
+tqdm
