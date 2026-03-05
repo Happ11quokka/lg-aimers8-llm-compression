@@ -208,6 +208,16 @@ python analyze_model.py
 - [LLM Compressor](https://github.com/vllm-project/llm-compressor)
 - [DACON 대회 페이지](https://dacon.io/competitions/official/236473/overview/description)
 
+## 이수증
+
+LG Aimers 8기 교육 프로그램 이수증입니다.
+
+<p align="center">
+  <img src="LG AI.pdf" alt="LG Aimers 8기 이수증" width="600">
+</p>
+
+> 📄 [이수증 PDF 원본 보기](LG%20AI.pdf)
+
 ---
 
 *이 프로젝트는 LG Aimers 8기 온라인 해커톤(Phase 2)에 참가하며 진행한 개인 실험 기록입니다.*
